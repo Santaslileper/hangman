@@ -5,7 +5,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Cross--Platform-blue?style=flat-square&logo=python)](https://github.com/Santaslileper/hangman)
 [![Language](https://img.shields.io/badge/Language-Python%203.x-yellow?style=flat-square&logo=python)](https://github.com/Santaslileper/hangman)
-[![Status](https://img.shields.io/badge/Status-Maintained-success?style=flat-square)](https://github.com/Santaslileper/hangman)
+[![Status](https://img.shields.io/badge/Status-Legacy-red?style=flat-square)](https://github.com/Santaslileper/hangman)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](md/LICENSE.md)
 
 [Launch Engine](src/main.py) • [View Logic](src/) • [Report Bug](../../issues)
@@ -13,6 +13,9 @@
 ---
 
 Hangman is a modular terminal-based implementation of the traditional word-guessing game. It utilizes a separate asset-mapping module for visual ASCII transitions and a centralized game state controller for logic execution.
+
+> [!NOTE]
+> **Project Status**: This repository is considered legacy and is no longer being actively maintained. It remains available for research and archival purposes.
 
 ---
 
